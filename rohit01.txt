@@ -1,2 +1,7 @@
 rohit kinkar
+
 conflix issue check
+
+chnges made from github editor.
+
+Conflict manually solving
